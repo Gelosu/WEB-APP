@@ -24,7 +24,7 @@ export default function REG (){
             padding:"5px",
             width:375
         }).then(function(){
-           window.location = "web-app-ruby-two.vercel.app/login"
+           window.location = "/login"
         });
     }
     
