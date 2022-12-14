@@ -28,8 +28,8 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    display: flex;
-    height: 100vh;
+    display: inline-block;
+    height: 150vh;
 
    
 }
