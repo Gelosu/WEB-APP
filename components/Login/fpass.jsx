@@ -29,7 +29,7 @@ export default function Fpass() {
             width:300
 
         }).then(function(){
-            window.location = "https://web-app-ruby-two.vercel.app/login";
+            window.location = "https://eos-website.vercel.app/login";
         });
     }
    
