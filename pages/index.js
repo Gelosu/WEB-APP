@@ -27,7 +27,7 @@ export default function WEB() {
       <title>MAIN</title>
       <div className={styles.container}>
       <div className={styles.image}>
-      <a href="https://web-app-ruby-two.vercel.app">
+      <a href="https://eos-website.vercel.app">
         <button>
         <img src = "LOGO.png"></img>
         </button>
@@ -35,11 +35,11 @@ export default function WEB() {
         </div>
       <div className={styles.navbarActions}>
         <div className={styles.login}>
-        <a href="https://web-app-ruby-two.vercel.app/login">
+        <a href="https://eos-website.vercel.app/login">
         <button>Login</button>
         </a>
         </div>
-        <a href="https://web-app-ruby-two.vercel.app/reg"><button>Register</button></a>
+        <a href="https://eos-website.vercel.app/reg"><button>Register</button></a>
          <button onClick={handleClick}>Contact</button>
       </div>
     </div>     
