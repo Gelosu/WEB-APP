@@ -27,7 +27,7 @@ export default function WEB() {
       <title>MAIN</title>
       <div className={styles.container}>
       <div className={styles.image}>
-      <a href="http://localhost:3000/WEB">
+      <a href="https://web-app-ruby-two.vercel.app">
         <button>
         <img src = "LOGO.png"></img>
         </button>
