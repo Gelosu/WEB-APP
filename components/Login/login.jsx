@@ -41,7 +41,7 @@ export default function LOGIN({LogiN, error}) {
         
         <div className={styles.container}>
         <div className={styles.image}>
-        <a href="https://web-app-ruby-two.vercel.app/WEB">
+        <a href="https://web-app-ruby-two.vercel.app">
         <button>
         <img src = "LOGO.png"></img>
         </button>
