@@ -39,7 +39,7 @@ export default function WEB() {
         <button>Login</button>
         </a>
         </div>
-        <a href="http://localhost:3000/reg"><button>Register</button></a>
+        <a href="web-app-ruby-two.vercel.app/reg"><button>Register</button></a>
          <button onClick={handleClick}>Contact</button>
       </div>
     </div>     
