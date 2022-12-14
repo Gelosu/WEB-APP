@@ -31,7 +31,7 @@ export default function REG (){
     return(
         <div className={styles.container}>
             <div className={styles.image}>
-            <a type="button" href="https://web-app-ruby-two.vercel.app/WEB"><img src="LOGO.png" /></a>
+            <a type="button" href="https://web-app-ruby-two.vercel.app"><img src="LOGO.png" /></a>
             </div>
             <div className={styles.LEFT}>
                 <h1>SIGN UP</h1>
