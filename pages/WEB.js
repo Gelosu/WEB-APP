@@ -35,7 +35,7 @@ export default function WEB() {
         </div>
       <div className={styles.navbarActions}>
         <div className={styles.login}>
-        <a href="http://localhost:3000/login">
+        <a href="web-app-ruby-two.vercel.app/login">
         <button>Login</button>
         </a>
         </div>
