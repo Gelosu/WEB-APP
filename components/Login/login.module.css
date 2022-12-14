@@ -31,9 +31,9 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    display: inline-block;
-    height: 120vh;
     position: relative;
+    height: 100vh;
+    
     
 
 }
