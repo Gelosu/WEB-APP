@@ -29,7 +29,8 @@
     background-size: cover;
     background-position: center;
     display: inline-block;
-    height: 150vh;
+    height: 100vh;
+    width: 2000px;
 
    
 }
